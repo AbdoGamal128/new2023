@@ -1,0 +1,4 @@
+ssh-keygen -t rsa
+cd .ssh
+type
+type id_rsa.pub
