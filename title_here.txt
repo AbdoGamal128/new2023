@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-=======
 sssssssssss
 1
 aaaaaaaaaaaa
->>>>>>> 244c0a04eb8b118515b0758eb1b39e642afaf0d1
+sa
