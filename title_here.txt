@@ -1,5 +1,4 @@
 ppput
-<<<<<<< HEAD
 1
 hello 128
 2
@@ -8,8 +7,6 @@ hello 128
 5
 6
 6
-=======
 ro
 112
 ro
->>>>>>> 162bf8c4770cdb92a1a6b703a5c8bb092a74d61b
