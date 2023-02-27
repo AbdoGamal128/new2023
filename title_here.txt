@@ -1,11 +1,1 @@
-ppput
-1
-hello 128
-2
-3
-4
-5
-ro
-112w
-ro
-12
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
